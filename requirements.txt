@@ -1,11 +1,11 @@
-fastf1 >= 3.3. < 3.4.0
-pandas >= 1.5.0
-matplotlib >= 3.7.0
-numpy >= 1.26. < 2.0.0
-seaborn >= 0.13.0
-tomli >= 2.0.0
-tomli-w >= 1.0.0
-pre-commit >= 3.6.0
-click >= 8.0.0
-dash >= 2.9.0
-dash-bootstrap-components >= 1.6.0
+fastf1
+pandas
+matplotlib
+numpy
+seaborn
+tomli
+tomli-w
+pre-commit
+click
+dash
+dash-bootstrap-components
